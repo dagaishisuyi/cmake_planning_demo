@@ -8,6 +8,8 @@ int main()
     Process pro;
     pro.planProcess();
     cout << "planing end" << endl;
+
+    system("pause");
     
     return 0;
 }
